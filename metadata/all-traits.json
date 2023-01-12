@@ -1,0 +1,902 @@
+[
+    {
+        "background": "Orange",
+        "slug": "Gray_Slug",
+        "slime": "Purple_Slime",
+        "shell": "Baby_Purple_Shell",
+        "item": "Ovni",
+        "hat": "Indigenous_Hat",
+        "tokenId": 0
+    },
+    {
+        "background": "Red",
+        "slug": "Orange_Slug",
+        "slime": "Gray_Slime",
+        "shell": "Green_Shell",
+        "item": "Controller",
+        "hat": "Sheriff",
+        "tokenId": 1
+    },
+    {
+        "background": "Gray",
+        "slug": "Yellow_Slug",
+        "slime": "Brown_Slime",
+        "shell": "Orange_Shell",
+        "item": "Exhaust",
+        "hat": "Mask",
+        "tokenId": 2
+    },
+    {
+        "background": "Blue",
+        "slug": "Brown_Slug",
+        "slime": "Red_Slime",
+        "shell": "Yellow_Shell",
+        "item": "Mat",
+        "hat": "Miner_Hat",
+        "tokenId": 3
+    },
+    {
+        "background": "Yellow",
+        "slug": "Marine_Blue_Slug",
+        "slime": "Lime_Slime",
+        "shell": "Brown_Shell",
+        "item": "Back_Slime",
+        "hat": "Mask",
+        "tokenId": 4
+    },
+    {
+        "background": "Gray",
+        "slug": "Baby_Purple_Slug",
+        "slime": "Gray_Slime",
+        "shell": "Purple_Shell",
+        "item": "Board",
+        "hat": "Bishop",
+        "tokenId": 5
+    },
+    {
+        "background": "Green",
+        "slug": "Marine_Blue_Slug",
+        "slime": "Cyan_Slime",
+        "shell": "Baby_Green_Shell",
+        "item": "Battery",
+        "hat": "Pink_Hair",
+        "tokenId": 6
+    },
+    {
+        "background": "Baby_Green",
+        "slug": "Marine_Blue_Slug",
+        "slime": "Cyan_Slime",
+        "shell": "Pink_Shell",
+        "item": "Exhaust",
+        "hat": "Bishop",
+        "tokenId": 7
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Blue_Slug",
+        "slime": "Baby_Purple_Slime",
+        "shell": "Cyan_Shell",
+        "item": "Egg",
+        "hat": "Fisherman",
+        "tokenId": 8
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Orange_Slug",
+        "slime": "Green_Slime",
+        "shell": "Purple_Shell",
+        "item": "Pokeball",
+        "hat": "Cap",
+        "tokenId": 9
+    },
+    {
+        "background": "Pink",
+        "slug": "Cyan_Slug",
+        "slime": "Cyan_Slime",
+        "shell": "Green_Shell",
+        "item": "Unicorn_Wings",
+        "hat": "Hood",
+        "tokenId": 10
+    },
+    {
+        "background": "Green",
+        "slug": "Red_Slug",
+        "slime": "Baby_Purple_Slime",
+        "shell": "Cyan_Shell",
+        "item": "Diamond",
+        "hat": "Top_Hat",
+        "tokenId": 11
+    },
+    {
+        "background": "Green",
+        "slug": "Baby_Green_Slug",
+        "slime": "Brown_Slime",
+        "shell": "Marine_Blue_Shell",
+        "item": "Controller",
+        "hat": "Smooth_Hair",
+        "tokenId": 12
+    },
+    {
+        "background": "Red",
+        "slug": "Brown_Slug",
+        "slime": "Marine_Blue_Slime",
+        "shell": "Baby_Green_Shell",
+        "item": "Exhaust",
+        "hat": "Bishop",
+        "tokenId": 13
+    },
+    {
+        "background": "Cyan",
+        "slug": "Red_Slug",
+        "slime": "Marine_Blue_Slime",
+        "shell": "Baby_Green_Shell",
+        "item": "Pokeball",
+        "hat": "Helmet",
+        "tokenId": 14
+    },
+    {
+        "background": "Green",
+        "slug": "Yellow_Slug",
+        "slime": "Gray_Slime",
+        "shell": "Black_Shell",
+        "item": "Exhaust",
+        "hat": "Smooth_Hair",
+        "tokenId": 15
+    },
+    {
+        "background": "Baby_Green",
+        "slug": "Marine_Blue_Slug",
+        "slime": "Red_Slime",
+        "shell": "Marine_Blue_Shell",
+        "item": "Candle",
+        "hat": "Top",
+        "tokenId": 16
+    },
+    {
+        "background": "Pink",
+        "slug": "Blue_Slug",
+        "slime": "Purple_Slime",
+        "shell": "Marine_Blue_Shell",
+        "item": "Mat",
+        "hat": "Cap",
+        "tokenId": 17
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Green_Slug",
+        "slime": "Brown_Slime",
+        "shell": "Black_Shell",
+        "item": "Controller",
+        "hat": "Horns",
+        "tokenId": 18
+    },
+    {
+        "background": "Orange",
+        "slug": "Brown_Slug",
+        "slime": "Brown_Slime",
+        "shell": "Green_Shell",
+        "item": "Back_Slime",
+        "hat": "Bike_Helmet",
+        "tokenId": 19
+    },
+    {
+        "background": "Purple",
+        "slug": "Brown_Slug",
+        "slime": "Pink_Slime",
+        "shell": "Red_Shell",
+        "item": "Diamond",
+        "hat": "Pink_Hair",
+        "tokenId": 20
+    },
+    {
+        "background": "Gray",
+        "slug": "Baby_Green_Slug",
+        "slime": "Lime_Slime",
+        "shell": "Brown_Shell",
+        "item": "Bag",
+        "hat": "Miner_Hat",
+        "tokenId": 21
+    },
+    {
+        "background": "Green",
+        "slug": "Yellow_Slug",
+        "slime": "Lime_Slime",
+        "shell": "Purple_Shell",
+        "item": "Rocket",
+        "hat": "Horns",
+        "tokenId": 22
+    },
+    {
+        "background": "Baby_Green",
+        "slug": "Marine_Blue_Slug",
+        "slime": "Blue_Slime",
+        "shell": "Yellow_Shell",
+        "item": "Tree",
+        "hat": "Bishop",
+        "tokenId": 23
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Cyan_Slug",
+        "slime": "Brown_Slime",
+        "shell": "Blue_Shell",
+        "item": "Diamond",
+        "hat": "Hood",
+        "tokenId": 24
+    },
+    {
+        "background": "Gray",
+        "slug": "Pink_Slug",
+        "slime": "Lime_Slime",
+        "shell": "Baby_Green_Shell",
+        "item": "Toxic",
+        "hat": "Dread_Style",
+        "tokenId": 25
+    },
+    {
+        "background": "Gray",
+        "slug": "Pink_Slug",
+        "slime": "Orange_Slime",
+        "shell": "Orange_Shell",
+        "item": "Mat",
+        "hat": "Dread_Style",
+        "tokenId": 26
+    },
+    {
+        "background": "Red",
+        "slug": "Brown_Slug",
+        "slime": "Orange_Slime",
+        "shell": "Baby_Green_Shell",
+        "item": "Rocket",
+        "hat": "Horns",
+        "tokenId": 27
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Orange_Slug",
+        "slime": "Purple_Slime",
+        "shell": "Black_Shell",
+        "item": "Chest",
+        "hat": "Top_Hat",
+        "tokenId": 28
+    },
+    {
+        "background": "Yellow",
+        "slug": "Orange_Slug",
+        "slime": "Purple_Slime",
+        "shell": "Green_Shell",
+        "item": "Burguer",
+        "hat": "Helmet",
+        "tokenId": 29
+    },
+    {
+        "background": "Orange",
+        "slug": "Purple_Slug",
+        "slime": "Green_Slime",
+        "shell": "Baby_Green_Shell",
+        "item": "Back_Slime",
+        "hat": "Unicorn_Horn",
+        "tokenId": 30
+    },
+    {
+        "background": "Blue",
+        "slug": "Blue_Slug",
+        "slime": "Red_Slime",
+        "shell": "Orange_Shell",
+        "item": "Burguer",
+        "hat": "Hood",
+        "tokenId": 31
+    },
+    {
+        "background": "Red",
+        "slug": "Cyan_Slug",
+        "slime": "Baby_Purple_Slime",
+        "shell": "Blue_Shell",
+        "item": "Mat",
+        "hat": "Sheriff",
+        "tokenId": 32
+    },
+    {
+        "background": "Purple",
+        "slug": "Purple_Slug",
+        "slime": "Brown_Slime",
+        "shell": "Orange_Shell",
+        "item": "Pokeball",
+        "hat": "Unicorn_Horn",
+        "tokenId": 33
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Blue_Slug",
+        "slime": "Green_Slime",
+        "shell": "Green_Shell",
+        "item": "Diamond",
+        "hat": "Fisherman",
+        "tokenId": 34
+    },
+    {
+        "background": "Baby_Green",
+        "slug": "Yellow_Slug",
+        "slime": "Lime_Slime",
+        "shell": "Blue_Shell",
+        "item": "Board",
+        "hat": "Pink_Hair",
+        "tokenId": 35
+    },
+    {
+        "background": "Blue",
+        "slug": "Baby_Purple_Slug",
+        "slime": "Green_Slime",
+        "shell": "Green_Shell",
+        "item": "Egg",
+        "hat": "Winter_Cap",
+        "tokenId": 36
+    },
+    {
+        "background": "Red",
+        "slug": "Baby_Green_Slug",
+        "slime": "Baby_Purple_Slime",
+        "shell": "Green_Shell",
+        "item": "Back_Slime",
+        "hat": "Top_Hat",
+        "tokenId": 37
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Orange_Slug",
+        "slime": "Orange_Slime",
+        "shell": "Yellow_Shell",
+        "item": "Candle",
+        "hat": "HeadPhones",
+        "tokenId": 38
+    },
+    {
+        "background": "Baby_Green",
+        "slug": "Baby_Purple_Slug",
+        "slime": "Cyan_Slime",
+        "shell": "Brown_Shell",
+        "item": "Burguer",
+        "hat": "Bike_Helmet",
+        "tokenId": 39
+    },
+    {
+        "background": "Yellow",
+        "slug": "Baby_Green_Slug",
+        "slime": "Green_Slime",
+        "shell": "Cyan_Shell",
+        "item": "Toxic",
+        "hat": "Smooth_Hair",
+        "tokenId": 40
+    },
+    {
+        "background": "Orange",
+        "slug": "Yellow_Slug",
+        "slime": "Gray_Slime",
+        "shell": "Marine_Blue_Shell",
+        "item": "Chest",
+        "hat": "Unicorn_Horn",
+        "tokenId": 41
+    },
+    {
+        "background": "Pink",
+        "slug": "Baby_Purple_Slug",
+        "slime": "Baby_Blue_Slime",
+        "shell": "Orange_Shell",
+        "item": "Sword",
+        "hat": "Fisherman",
+        "tokenId": 42
+    },
+    {
+        "background": "Pink",
+        "slug": "Pink_Slug",
+        "slime": "Purple_Slime",
+        "shell": "Purple_Shell",
+        "item": "Tree",
+        "hat": "Miner_Hat",
+        "tokenId": 43
+    },
+    {
+        "background": "Purple",
+        "slug": "Yellow_Slug",
+        "slime": "Cyan_Slime",
+        "shell": "Blue_Shell",
+        "item": "Egg",
+        "hat": "Glasses",
+        "tokenId": 44
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Baby_Green_Slug",
+        "slime": "Yellow_Slime",
+        "shell": "Red_Shell",
+        "item": "Back_Slime",
+        "hat": "Horns",
+        "tokenId": 45
+    },
+    {
+        "background": "Red",
+        "slug": "Cyan_Slug",
+        "slime": "Yellow_Slime",
+        "shell": "Blue_Shell",
+        "item": "Burguer",
+        "hat": "Fisherman",
+        "tokenId": 46
+    },
+    {
+        "background": "Pink",
+        "slug": "Gray_Slug",
+        "slime": "Gray_Slime",
+        "shell": "Baby_Purple_Shell",
+        "item": "Burguer",
+        "hat": "Top",
+        "tokenId": 47
+    },
+    {
+        "background": "Pink",
+        "slug": "Orange_Slug",
+        "slime": "Baby_Blue_Slime",
+        "shell": "Pink_Shell",
+        "item": "Sword",
+        "hat": "Winter_Cap",
+        "tokenId": 48
+    },
+    {
+        "background": "Orange",
+        "slug": "Orange_Slug",
+        "slime": "Marine_Blue_Slime",
+        "shell": "Green_Shell",
+        "item": "Egg",
+        "hat": "Dread_Style",
+        "tokenId": 49
+    },
+    {
+        "background": "Gray",
+        "slug": "Yellow_Slug",
+        "slime": "Brown_Slime",
+        "shell": "Blue_Shell",
+        "item": "Burguer",
+        "hat": "Pink_Hair",
+        "tokenId": 50
+    },
+    {
+        "background": "Purple",
+        "slug": "Green_Slug",
+        "slime": "Green_Slime",
+        "shell": "Cyan_Shell",
+        "item": "Controller",
+        "hat": "Smooth_Hair",
+        "tokenId": 51
+    },
+    {
+        "background": "Yellow",
+        "slug": "Baby_Purple_Slug",
+        "slime": "Brown_Slime",
+        "shell": "Green_Shell",
+        "item": "Burguer",
+        "hat": "Winter_Cap",
+        "tokenId": 52
+    },
+    {
+        "background": "Blue",
+        "slug": "Brown_Slug",
+        "slime": "Marine_Blue_Slime",
+        "shell": "Pink_Shell",
+        "item": "Diamond",
+        "hat": "HeadPhones",
+        "tokenId": 53
+    },
+    {
+        "background": "Blue",
+        "slug": "Yellow_Slug",
+        "slime": "Pink_Slime",
+        "shell": "Green_Shell",
+        "item": "Diamond",
+        "hat": "Fisherman",
+        "tokenId": 54
+    },
+    {
+        "background": "Red",
+        "slug": "Green_Slug",
+        "slime": "Baby_Blue_Slime",
+        "shell": "Red_Shell",
+        "item": "Mat",
+        "hat": "Bike_Helmet",
+        "tokenId": 55
+    },
+    {
+        "background": "Red",
+        "slug": "Yellow_Slug",
+        "slime": "Marine_Blue_Slime",
+        "shell": "Marine_Blue_Shell",
+        "item": "Egg",
+        "hat": "Glasses",
+        "tokenId": 56
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Brown_Slug",
+        "slime": "Blue_Slime",
+        "shell": "Cyan_Shell",
+        "item": "Toxic",
+        "hat": "Top_Hat",
+        "tokenId": 57
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Marine_Blue_Slug",
+        "slime": "Purple_Slime",
+        "shell": "Red_Shell",
+        "item": "Board",
+        "hat": "Top_Hat",
+        "tokenId": 58
+    },
+    {
+        "background": "Orange",
+        "slug": "Marine_Blue_Slug",
+        "slime": "Marine_Blue_Slime",
+        "shell": "Orange_Shell",
+        "item": "Chest",
+        "hat": "Winter_Cap",
+        "tokenId": 59
+    },
+    {
+        "background": "Blue",
+        "slug": "Baby_Purple_Slug",
+        "slime": "Yellow_Slime",
+        "shell": "Baby_Green_Shell",
+        "item": "Tree",
+        "hat": "Helmet",
+        "tokenId": 60
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Orange_Slug",
+        "slime": "Baby_Purple_Slime",
+        "shell": "Brown_Shell",
+        "item": "Tree",
+        "hat": "Miner_Hat",
+        "tokenId": 61
+    },
+    {
+        "background": "Yellow",
+        "slug": "Red_Slug",
+        "slime": "Red_Slime",
+        "shell": "Pink_Shell",
+        "item": "Back_Slime",
+        "hat": "Sheriff",
+        "tokenId": 62
+    },
+    {
+        "background": "Yellow",
+        "slug": "Cyan_Slug",
+        "slime": "Lime_Slime",
+        "shell": "Red_Shell",
+        "item": "Board",
+        "hat": "HeadPhones",
+        "tokenId": 63
+    },
+    {
+        "background": "Gray",
+        "slug": "Gray_Slug",
+        "slime": "Gray_Slime",
+        "shell": "Blue_Shell",
+        "item": "Unicorn_Wings",
+        "hat": "Cap",
+        "tokenId": 64
+    },
+    {
+        "background": "Orange",
+        "slug": "Brown_Slug",
+        "slime": "Green_Slime",
+        "shell": "Pink_Shell",
+        "item": "Rocket",
+        "hat": "Fisherman",
+        "tokenId": 65
+    },
+    {
+        "background": "Gray",
+        "slug": "Baby_Purple_Slug",
+        "slime": "Green_Slime",
+        "shell": "Green_Shell",
+        "item": "Ovni",
+        "hat": "Indigenous_Hat",
+        "tokenId": 66
+    },
+    {
+        "background": "Purple",
+        "slug": "Purple_Slug",
+        "slime": "Gray_Slime",
+        "shell": "Purple_Shell",
+        "item": "Toxic",
+        "hat": "Helmet",
+        "tokenId": 67
+    },
+    {
+        "background": "Gray",
+        "slug": "Yellow_Slug",
+        "slime": "Marine_Blue_Slime",
+        "shell": "Green_Shell",
+        "item": "Rocket",
+        "hat": "Smooth_Hair",
+        "tokenId": 68
+    },
+    {
+        "background": "Green",
+        "slug": "Baby_Purple_Slug",
+        "slime": "Pink_Slime",
+        "shell": "Brown_Shell",
+        "item": "Bag",
+        "hat": "Unicorn_Horn",
+        "tokenId": 69
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Green_Slug",
+        "slime": "Baby_Blue_Slime",
+        "shell": "Baby_Purple_Shell",
+        "item": "Mat",
+        "hat": "Unicorn_Horn",
+        "tokenId": 70
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Orange_Slug",
+        "slime": "Orange_Slime",
+        "shell": "Orange_Shell",
+        "item": "Tree",
+        "hat": "Bishop",
+        "tokenId": 71
+    },
+    {
+        "background": "Blue",
+        "slug": "Baby_Purple_Slug",
+        "slime": "Purple_Slime",
+        "shell": "Black_Shell",
+        "item": "Unicorn_Wings",
+        "hat": "Top",
+        "tokenId": 72
+    },
+    {
+        "background": "Green",
+        "slug": "Red_Slug",
+        "slime": "Cyan_Slime",
+        "shell": "Black_Shell",
+        "item": "Egg",
+        "hat": "Helmet",
+        "tokenId": 73
+    },
+    {
+        "background": "Orange",
+        "slug": "Yellow_Slug",
+        "slime": "Brown_Slime",
+        "shell": "Yellow_Shell",
+        "item": "Back_Slime",
+        "hat": "Hood",
+        "tokenId": 74
+    },
+    {
+        "background": "Baby_Green",
+        "slug": "Green_Slug",
+        "slime": "Purple_Slime",
+        "shell": "Blue_Shell",
+        "item": "Toxic",
+        "hat": "Fisherman",
+        "tokenId": 75
+    },
+    {
+        "background": "Blue",
+        "slug": "Baby_Green_Slug",
+        "slime": "Yellow_Slime",
+        "shell": "Baby_Green_Shell",
+        "item": "Ovni",
+        "hat": "Pink_Hair",
+        "tokenId": 76
+    },
+    {
+        "background": "Orange",
+        "slug": "Baby_Purple_Slug",
+        "slime": "Yellow_Slime",
+        "shell": "Red_Shell",
+        "item": "Sword",
+        "hat": "Sheriff",
+        "tokenId": 77
+    },
+    {
+        "background": "Blue",
+        "slug": "Purple_Slug",
+        "slime": "Yellow_Slime",
+        "shell": "Red_Shell",
+        "item": "Toxic",
+        "hat": "Bishop",
+        "tokenId": 78
+    },
+    {
+        "background": "Yellow",
+        "slug": "Blue_Slug",
+        "slime": "Yellow_Slime",
+        "shell": "Purple_Shell",
+        "item": "Board",
+        "hat": "Bike_Helmet",
+        "tokenId": 79
+    },
+    {
+        "background": "Baby_Green",
+        "slug": "Red_Slug",
+        "slime": "Purple_Slime",
+        "shell": "Brown_Shell",
+        "item": "Controller",
+        "hat": "Winter_Cap",
+        "tokenId": 80
+    },
+    {
+        "background": "Orange",
+        "slug": "Red_Slug",
+        "slime": "Orange_Slime",
+        "shell": "Green_Shell",
+        "item": "Egg",
+        "hat": "Cap",
+        "tokenId": 81
+    },
+    {
+        "background": "Blue",
+        "slug": "Brown_Slug",
+        "slime": "Baby_Blue_Slime",
+        "shell": "Pink_Shell",
+        "item": "Controller",
+        "hat": "Dread_Style",
+        "tokenId": 82
+    },
+    {
+        "background": "Green",
+        "slug": "Marine_Blue_Slug",
+        "slime": "Baby_Purple_Slime",
+        "shell": "Black_Shell",
+        "item": "Toxic",
+        "hat": "Smooth_Hair",
+        "tokenId": 83
+    },
+    {
+        "background": "Yellow",
+        "slug": "Pink_Slug",
+        "slime": "Red_Slime",
+        "shell": "Cyan_Shell",
+        "item": "Rocket",
+        "hat": "Indigenous_Hat",
+        "tokenId": 84
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Purple_Slug",
+        "slime": "Purple_Slime",
+        "shell": "Cyan_Shell",
+        "item": "Exhaust",
+        "hat": "Mask",
+        "tokenId": 85
+    },
+    {
+        "background": "Orange",
+        "slug": "Baby_Green_Slug",
+        "slime": "Orange_Slime",
+        "shell": "Baby_Purple_Shell",
+        "item": "Burguer",
+        "hat": "Dread_Style",
+        "tokenId": 86
+    },
+    {
+        "background": "Yellow",
+        "slug": "Pink_Slug",
+        "slime": "Green_Slime",
+        "shell": "Blue_Shell",
+        "item": "Back_Slime",
+        "hat": "Pink_Hair",
+        "tokenId": 87
+    },
+    {
+        "background": "Yellow",
+        "slug": "Brown_Slug",
+        "slime": "Gray_Slime",
+        "shell": "Purple_Shell",
+        "item": "Pokeball",
+        "hat": "HeadPhones",
+        "tokenId": 88
+    },
+    {
+        "background": "Gray",
+        "slug": "Green_Slug",
+        "slime": "Orange_Slime",
+        "shell": "Blue_Shell",
+        "item": "Diamond",
+        "hat": "Top_Hat",
+        "tokenId": 89
+    },
+    {
+        "background": "Pink",
+        "slug": "Green_Slug",
+        "slime": "Blue_Slime",
+        "shell": "Orange_Shell",
+        "item": "Exhaust",
+        "hat": "Helmet",
+        "tokenId": 90
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Orange_Slug",
+        "slime": "Lime_Slime",
+        "shell": "Baby_Green_Shell",
+        "item": "Sword",
+        "hat": "Bike_Helmet",
+        "tokenId": 91
+    },
+    {
+        "background": "Pink",
+        "slug": "Yellow_Slug",
+        "slime": "Lime_Slime",
+        "shell": "Pink_Shell",
+        "item": "Toxic",
+        "hat": "Indigenous_Hat",
+        "tokenId": 92
+    },
+    {
+        "background": "Pink",
+        "slug": "Red_Slug",
+        "slime": "Red_Slime",
+        "shell": "Yellow_Shell",
+        "item": "Sword",
+        "hat": "Miner_Hat",
+        "tokenId": 93
+    },
+    {
+        "background": "Blue",
+        "slug": "Red_Slug",
+        "slime": "Green_Slime",
+        "shell": "Marine_Blue_Shell",
+        "item": "Sword",
+        "hat": "Top_Hat",
+        "tokenId": 94
+    },
+    {
+        "background": "Cyan",
+        "slug": "Orange_Slug",
+        "slime": "Green_Slime",
+        "shell": "Brown_Shell",
+        "item": "Controller",
+        "hat": "Horns",
+        "tokenId": 95
+    },
+    {
+        "background": "Baby_Blue",
+        "slug": "Pink_Slug",
+        "slime": "Gray_Slime",
+        "shell": "Baby_Purple_Shell",
+        "item": "Back_Slime",
+        "hat": "Pink_Hair",
+        "tokenId": 96
+    },
+    {
+        "background": "Green",
+        "slug": "Red_Slug",
+        "slime": "Baby_Purple_Slime",
+        "shell": "Cyan_Shell",
+        "item": "Unicorn_Wings",
+        "hat": "Sheriff",
+        "tokenId": 97
+    },
+    {
+        "background": "Baby_Green",
+        "slug": "Baby_Green_Slug",
+        "slime": "Lime_Slime",
+        "shell": "Purple_Shell",
+        "item": "Back_Slime",
+        "hat": "Sheriff",
+        "tokenId": 98
+    },
+    {
+        "background": "Pink",
+        "slug": "Baby_Green_Slug",
+        "slime": "Lime_Slime",
+        "shell": "Baby_Purple_Shell",
+        "item": "Chest",
+        "hat": "Cap",
+        "tokenId": 99
+    }
+]
