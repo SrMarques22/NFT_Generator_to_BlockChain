@@ -193,7 +193,7 @@ Esta função percorre a lista de características de rosto (branco, preto) e re
 
 ## Generate Traits
 
-TOTAL_IMAGES = 100  # Number of random unique images we want to generate
+TOTAL_IMAGES = 1001  # Number of random unique images we want to generate
 
 all_images = []
 
@@ -455,3 +455,4 @@ for item in all_images:
  Logo você conseguirá visualizar seu metadata correspondente a imagem correta, confira uma para ver se correspondem as informações
  '''
 
+print('Programa Finalizado, Pegue suas Lesmas')

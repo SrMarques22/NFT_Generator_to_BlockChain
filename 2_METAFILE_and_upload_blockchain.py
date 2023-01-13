@@ -54,7 +54,7 @@ Exemplo: https://gateway.pinata.cloud/ipfs/Qmb86L8mUphwJGzLPwXNTRiK1S4scBdj9cc2S
 
 # IMPORTANTE !!!
 #OBS: O PARAMETRO ALL_IMAGE ABAIXO SERVER APENAS PARA NÃO DAR ERRO NO PROGRAMA, MAS NA HORA DE MONTAR O PROGRAMA UTILIZAR AS VARIAVEIS
-# DO ARQUIVO "NFT_Generator.py".
+# DO ARQUIVO "Exemplo_NFT_Generator.py".
 all_images = []
 
 

@@ -23,14 +23,17 @@ import os
 
 
 # Each image is made up a series of traits
-# The weightings for each trait drive the rarity and add up to 100%
+#
 
 #Parte 1
 '''A raridade é importante, pois cria escassez que, por sua vez, cria valor.
 Você implementará raridade nas características atribuindo pesos aos diferentes tipos dentro de uma característica. 
 O total dos pesos deve sempre somar 100.
 Existem dois tipos de rostos (preto e branco). Você especifica para o programa que uma imagem tem 60% de chance de receber 
-uma background branca e 40% de receber uma background preta.'''
+uma background branca e 40% de receber uma background preta.
+
+A totalização dos valores abaixo, devem sempre fechar em 100!
+'''
 
 #Background
 background = ["Baby_Blue","Baby_Green","Blue","Cyan","Gray","Green","Orange","Pink","Purple","Red","Yellow"]
@@ -332,3 +335,5 @@ for item in all_images:
  rgb_im = com5.convert('RGB')
  file_name = str(item["tokenId"]) + ".png"
  rgb_im.save(r"C:\Users\bruno.marques\OneDrive - Linx SA\Documentos\pixelart\Slug_Island\Python_Teste\Slug_Island #" + file_name)
+
+ print('Processo finalizado')
